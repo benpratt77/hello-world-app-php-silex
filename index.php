@@ -18,6 +18,10 @@ $dotenv->load();
 $app = new Application();
 $app['debug'] = true;
 
+$app->get('/test', function (Request $request) use ($app) {
+   return 'hello';
+});
+
 $app->get('/load', function (Request $request) use ($app) {
 
 	$data = verifySignedRequest($request->get('signed_payload'));

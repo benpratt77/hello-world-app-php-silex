@@ -1,1 +1,1 @@
-web: php -S localhost:$PORT
+web: vendor/bin/heroku-php-nginx -C web/nginx.conf web/
