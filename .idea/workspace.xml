@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebee2140-53cf-42d0-8b97-a8cdec7154f7" name="Default" comment="" />
+    <list default="true" id="ebee2140-53cf-42d0-8b97-a8cdec7154f7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,18 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="225">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CONTRIBUTING.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -130,8 +142,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2589" />
-    <option name="y" value="-649" />
+    <option name="x" value="1816" />
+    <option name="y" value="-557" />
     <option name="width" value="1985" />
     <option name="height" value="1211" />
   </component>
@@ -146,11 +158,6 @@
             <path>
               <item name="sample-tax-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="sample-tax-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-tax-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sample-tax-app" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,15 +193,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550017127719</updated>
-      <workItem from="1550017129007" duration="5983000" />
+      <workItem from="1550017129007" duration="6240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5983000" />
+    <option name="totallyTimeSpent" value="6240000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2306" y="-689" width="1985" height="1211" extended-state="0" />
+    <frame x="1699" y="-720" width="1985" height="1211" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,10 +277,18 @@
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/CONTRIBUTING.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="225">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
