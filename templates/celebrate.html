@@ -1,0 +1,21 @@
+<link rel="stylesheet" href="/css/bootstrap.css" >
+<script src="/js/jquery-3.3.1.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<style>
+    .details-form {
+        margin: 50px;
+        padding: 50px;
+        border-radius: 3px;
+        box-shadow: 0px 2px 2px 1px rgba(1, 1, 1, 0.1);
+        width: 600px;
+    }
+</style>
+<div>
+    <h3>{{message}} {{userName}} </h3>
+    <form class="details-form" method="POST" action="/disconnect">
+        <label>
+            To Disconnect please click the button
+        </label>
+        <button type="submit" class="btn btn-primary">Disconnect</button>
+    </form>
+</div>
